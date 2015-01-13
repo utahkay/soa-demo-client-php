@@ -1,0 +1,12 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Pluralsight\\Soa-demo-pizza-website\\" : "src"
+		}
+	},
+	"name" : "pluralsight/soa-demo-pizza-website",
+	"require" : {
+		"php" : ">=5.3",
+		"videlalvaro/php-amqplib" : "v2.1.0"
+	}
+}
